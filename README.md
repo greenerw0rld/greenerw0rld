@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @greenerw0rld
-- 👀 I’m interested in making a better world for all of us
+- 👀 I’m interested in making a better and cleaner world for all of us
 - 💞️ I’m looking to collaborate on physics, chemistry, engineering, and anything else that could help us create the cleanest electricity generator on the planet.
 
 <!---
